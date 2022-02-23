@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cromwels complaint of injustice, or, His dispute with Pope Alexander the Sixth for precedency in hell</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35116</idno>
+            <idno type="STC">Wing C7192</idno>
+            <idno type="STC">ESTC R33426</idno>
+            <idno type="EEBO-CITATION">13324581</idno>
+            <idno type="OCLC">ocm 13324581</idno>
+            <idno type="VID">99047</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35116)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99047)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1548:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Cromwels complaint of injustice, or, His dispute with Pope Alexander the Sixth for precedency in hell</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Davis,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver, 1599-1658 --  Caricatures and cartoons.</term>
+               <term>Alexander --  VI, --  Pope, 1431-1503 --  Caricatures and cartoons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:99047:1" rendition="simple:additions"/>
+            <head>
+               <hi>Cromwels Complaint of Injuſtice:</hi> OR, HIS DISPUTE WITH Pope Alexander the Sixth, FOR Precedency in HELL.</head>
+            <sp>
+               <speaker>Oliver.</speaker>
+               <p>
+                  <seg rend="decorInit">W</seg>Hat pretence haſt thou to take place of me? What vaſt <hi>Gygantick Crimes</hi> haſt thou Com<g ref="char:EOLhyphen"/>mitted, that thou ſhouldſt dare to think, thou deſer<g ref="char:EOLhyphen"/>veſt to be <hi>Greater</hi> than I? Have not I <hi>Transgreſt all</hi> the <hi>Laws of God and Man?</hi> Did not I Subveret a <hi>State?</hi> Change its <hi>Religion</hi> and <hi>Government,</hi> Murder its <hi>Prince,</hi> and ſet whole <hi>Rivers</hi> of His <hi>beſt Subjects</hi> Blood a Flowing? Did not I do all this, and haſt thou the <hi>Impudence</hi> to pretend to Merit more, and have a greater Share in the <hi>Infernal Empire,</hi> than I?</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>All this thou didſt, I do Con<g ref="char:EOLhyphen"/>feſs it; But if thou wouldſt have but the Patience to hear me, I do not Que<g ref="char:EOLhyphen"/>ſtion but to make appear, that I and my <hi>Predeceſſors</hi> have done much more <hi>Meritorious Things,</hi> for our Great Lord and Maſter the <hi>Devil,</hi> than ever thou didſt, or couldſt do.</p>
+            </sp>
+            <sp>
+               <speaker>Oliver.</speaker>
+               <p>
+                  <hi>Hell and Furies!</hi> What didſt thou ever do more, than <hi>Whore</hi> thy own <hi>Daughter,</hi> and help thy Son <hi>Caeſar Bor<g ref="char:EOLhyphen"/>gia</hi> to Poiſon, and make away all the <hi>Oppoſrs and Obſtacles</hi> to his <hi>Greatneſs?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>Well, that is <hi>ſomething;</hi> it ſhew<g ref="char:EOLhyphen"/>ed how willing, and ready, I was to Tread in the <hi>Footsteps of my Predeceſſors,</hi> and give a good <hi>Example</hi> to all my <hi>Flock;</hi> but be Patient, and I will tell thee the <hi>Right, I</hi> and my <hi>Brother Popes</hi> have to be <hi>Vice-Royes</hi> here below. Thou Alas! Valueſt thy ſelf for having been the Ruin of one <hi>Prince and State:</hi> But, How ma<g ref="char:EOLhyphen"/>ny <hi>Emperors</hi> have we forc't to come, and <hi>Lay their Necks</hi> under our Feet? How many <hi>Kings</hi> have we cauſed to be <hi>Aſſaſſinated?</hi> How many <hi>Princes to be Murthered?</hi> How many <hi>Kingdoms and States</hi> to be Ruined by <hi>Civil Wars and Diſſentions?</hi> Have not we cauſed <hi>Prin<g ref="char:EOLhyphen"/>ces to Rebel</hi> againſt, and Murther the <hi>Kings their Fathers? Subjects</hi> to Depoſe their <hi>Lawful Sovereigns,</hi> and ſet up <hi>Tyrants</hi> in their Rooms? And in Fine, Did we not bring <hi>Anarchy and Confuſion</hi> into all Na<g ref="char:EOLhyphen"/>tions, when our <hi>Intereſt</hi> required it; or when thoſe at the <hi>Helm</hi> did not Regu<g ref="char:EOLhyphen"/>late themſelves as we would have had them? All this thou knoweſt we did, and muſt Confeſs it, there being <hi>Milli<g ref="char:EOLhyphen"/>ons of Inſtruments here,</hi> whom we Em<g ref="char:EOLhyphen"/>ployed to thoſe ends, to Confirm and Teſtify it.</p>
+            </sp>
+            <sp>
+               <speaker>Oliver.</speaker>
+               <p>I Grant all <hi>you Popes together</hi> have been <hi>Fruitfully and Bravely Wicked;</hi> But hath any one of you, Attempted, Performed, and Compleated, ſuch Great, Noble, and Numerous Crimes as I have
+<pb n="2" facs="tcp:99047:2"/>done? Did not I, and my Companions under the Pretext of Religion, Subvert both it and the Government, and cry<g ref="char:EOLhyphen"/>ing out againſt the ill Management of the State, the Treachery, and want of Conduct in Miniſters, and by pretending to reform the Helm, bring the Nation in<g ref="char:EOLhyphen"/>to ſuch a Combuſtion, that we Gain<g ref="char:EOLhyphen"/>ed our Point; which was, That we might have the Liberty to Act thoſe Wickedneſſes, that the others who were there before us were Accuſed of, but which indeed never came into their Thoughts, not having the Sence or Cou<g ref="char:EOLhyphen"/>rage to Perform, or at leaſt were Re<g ref="char:EOLhyphen"/>ſtrained by their Conſciences; the Li<g ref="char:EOLhyphen"/>berty of which, we Cryed out mighti<g ref="char:EOLhyphen"/>ly for, becauſe we knew ours would allow us all we could deſire.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>All this I know, and how Suc<g ref="char:EOLhyphen"/>ceſsful you were in it, but you were on<g ref="char:EOLhyphen"/>ly the Executioners of the <hi>Roman</hi> Con<g ref="char:EOLhyphen"/>trivances; We drew the Model, and ſet you at Work, Your <hi>King</hi>'s Death that you brag ſo much of, was firſt Reſolv'd on at <hi>Rome,</hi> before it came into your Noddles, and ſo far, you were only the blind Miniſters of our <hi>Reſolutions.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Oliver.</speaker>
+               <p>I am ſure that's falſe; For none of us all, but Aimed chiefly at him, though we ſeemed to Look, and Squinted another way. You might per<g ref="char:EOLhyphen"/>haps have the ſame Deſign, but you ought not therefore to Arrogate to your ſelf all the Honour, being we thought on it, and deſigned it as ſoon as there was any Probability of doing it; and e<g ref="char:EOLhyphen"/>ven performed it as ſoon as it lay in our Power. Indeed we found it a difficult Task, and without your Help, perhaps we ſhould not have been able to have Compaſs'd it. We were forced to raiſe Fears and Jealouſies of an Arbitrary Go<g ref="char:EOLhyphen"/>vernment; and in that I muſt Confeſs, we found your Party extreamly uſeful to us, and very skilful to Infuſe the Poi<g ref="char:EOLhyphen"/>ſon into Peoples Minds; and by theſe Means, we Arrived at what we ſo much had Railed againſt, amd ſeemed to Ab<g ref="char:EOLhyphen"/>hor; that is to ſay, an Unlimited Power. We Trampled all Laws down under our Feet, and made ſuch New Ones, as were fit for our Purpoſe, and Intereſts. The Truth is (to bring this to paſs) we made it Coſt the Nations whole Seas of Blood: Trade was Deſtroyed, Maidens were Ra<g ref="char:EOLhyphen"/>viſh't, Mothers had their Infants Ript out of their Wombs; the Father Stab his Son, and the Son his Father; and nothing was more common, than to ſee Brother Drink his Brother's Blood to the Health of our Cauſe, when he cal<g ref="char:EOLhyphen"/>led him an Enemy, and Traitor to his Country.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>I Laugh at all theſe Flouriſhes, they are but the common, and uſual Ef<g ref="char:EOLhyphen"/>fects of our Conſpiracies: Had but our late Plot Succeeded in <hi>England,</hi> you would have ſeen them bravely Acted, and Repeated even to a Degree above Admiration; they would have Surpaſ<g ref="char:EOLhyphen"/>ſed your Envy, and even have cauſed in you your ſelf, a Dread and Terror.</p>
+            </sp>
+            <sp>
+               <speaker>Oliver.</speaker>
+               <p>But muſt you not Confeſs, that your Inſtruments were but pittiful baſe Creatures, and aſhamed of their Task, ſince they Denied it at their Exe<g ref="char:EOLhyphen"/>cutions, whereas you ſee my Brood in <hi>Scotland,</hi> not only begun bravely by their Rebellion, and Murthering the <hi>Arch-Biſhop</hi> of Saint <hi>Andrews,</hi> but Ac<g ref="char:EOLhyphen"/>knowledged the Fact at their Tryals and Deaths; and not only Maintained the Lawfulneſs of it, but alſo Dyed Martyrs for the Doctrine of King-killing; where<g ref="char:EOLhyphen"/>as your Chicken-hearted <hi>Heroes,</hi> were both aſhamed of what they would have done, and diſowned what the brave Doctors of your Church hath Taught.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>Come, don't Reproach us, they had been Fools if they had Owned it; nay, and we had taken Care to per<g ref="char:EOLhyphen"/>ſwade them they ſhould have been Dam<g ref="char:EOLhyphen"/>ned too; beſides Peoples Opinion of an Action, is generally Regulated by its Succeſs, which we being Diſappointed of, all our Intereſts and Reputation in the World, would have been Loſt and Ruined, had they not ſtifly Denied it. Therefore, I ſay, do not Reproach us; for can you, or your Brood, as you call them, ever pretend to Match our <hi>Trea<g ref="char:EOLhyphen"/>cheries, Treaſons, Plots, Conſpiracies, Maſ<g ref="char:EOLhyphen"/>ſacres,</hi> &amp;c. Do you think you ever can?</p>
+            </sp>
+            <sp>
+               <speaker>Oliver.</speaker>
+               <p>Perhaps we may; but of that, I'le tell you more hereafter.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>T. Davis,</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
